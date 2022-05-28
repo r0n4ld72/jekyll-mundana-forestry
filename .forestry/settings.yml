@@ -9,12 +9,6 @@ sections:
   create: documents
   templates:
   - post
-- type: jekyll-pages
-  label: Pages
-  create: documents
-- type: document
-  path: _config.yml
-  label: Configuration
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
